@@ -1,0 +1,7 @@
+c:\users\vinodhkumar\source\repos\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+c:\users\vinodhkumar\source\repos\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+c:\users\vinodhkumar\source\repos\WCFService\bin\Debug\WCFService.exe.config
+c:\users\vinodhkumar\source\repos\WCFService\bin\Debug\WCFService.exe
+c:\users\vinodhkumar\source\repos\WCFService\bin\Debug\WCFService.pdb
+c:\users\vinodhkumar\source\repos\WCFService\obj\Debug\WCFService.exe
+c:\users\vinodhkumar\source\repos\WCFService\obj\Debug\WCFService.pdb
